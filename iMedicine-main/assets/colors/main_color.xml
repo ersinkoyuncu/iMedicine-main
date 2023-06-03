@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="appWhite">#FFFFFF</color>
+    <color name="appBlack">#000000</color>
+    <color name="appGray">#EEEEEE</color>
+    <color name="appMelrose">#9F82E2</color>
+    <color name="appSundown">#FFB4B4</color>
+    <color name="appFrangipani">#FFDEB4</color>
+    <color name="appBeeswax">#FDF7C3</color>
+    <color name="appBlue">#3C6EE1</color>
+</resources>
